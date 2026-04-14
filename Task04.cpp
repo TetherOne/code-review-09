@@ -4,6 +4,7 @@
 // образом («T» — True, «F» — False):
 //     <выражение> ::= T | F | And(<выражение>, <выражение>) | Or(<выражение>, <выражение>)
 
+
 #include <cctype>
 #include <clocale>
 #include <iostream>
